@@ -31,9 +31,17 @@ CREATE TABLE spotify_streams (
 );
 ```
 
+## 🧠 Skills Demonstrated
+
+- SQL querying (basic to advanced)
+- Data aggregation and time-based analysis
+- Behavioral insights using structured data
+- Use of window functions and conditional logic
+- Real-world scenario thinking with music streaming data
+
 ---
 
-## 🔍 What You Can Learn from This Project
+## 🔍 What to Learn from This Project
 
 ### 🟢 Easy Level
 - Data retrieval
@@ -51,16 +59,6 @@ CREATE TABLE spotify_streams (
 - Time-series aggregations (e.g., monthly stats)
 - Behavior-based analytics (e.g., skip rates, peak hours)
 - Most played tracks by artist or date
-
----
-
-## 🧠 Skills Demonstrated
-
-- SQL querying (basic to advanced)
-- Data aggregation and time-based analysis
-- Behavioral insights using structured data
-- Use of window functions and conditional logic
-- Real-world scenario thinking with music streaming data
 
 ---
 
