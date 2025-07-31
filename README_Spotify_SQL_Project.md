@@ -74,6 +74,34 @@ CREATE TABLE spotify_streams (
 
 ---
 
+
+## 💡 Key Insights
+
+- Mobile and desktop platforms dominate the streaming behavior, with slight differences in usage patterns across the day.
+- Top artists like 'The Beatles', 'The Killers', 'John Mayer', and others account for a large share of total playtime — artist popularity skews heavily.
+- Skips occur in a significant portion of sessions (e.g., ~40–60%), highlighting listener selectivity and content fatigue.
+- Tracks played in shuffle mode are skipped less often, indicating randomness may increase engagement.
+- Most streamed tracks and albums align with current chart trends, validating the dataset’s relevance to real-world preferences.
+- Listening behavior peaks in the evening hours, especially post 6 PM, indicating optimal promotion windows.
+- Playtime per artist per month reveals strong seasonality trends (e.g., holiday spikes or summer anthems).
+- A small group of albums and artists consistently dominate top charts, reinforcing the "80/20 rule" in music consumption.
+- Certain tracks are never skipped and played multiple times — clear indicators of highly engaging content.
+- The most frequent start reasons are "track completion" and "user action", suggesting users are actively engaged rather than passively listening.
+
+---
+
+## 📈 Business Recommendations
+
+- Promote new releases or sponsored content during evening peak hours to maximize reach and engagement.
+- Leverage shuffle mode or similar "discovery" features to reduce skips and increase time spent listening.
+- Create retargeting campaigns for high skip-rate users or tracks, and offer personalized playlists to re-engage them.
+- Invest in exclusive content or collaborations with top artists who drive the majority of stream time.
+- Launch monthly or seasonal listening reports for users, highlighting their top artists/tracks to increase stickiness.
+- Introduce replay-focused playlists based on tracks played without skipping and more than 3 times — these show strong emotional or habitual listening.
+- Focus ad placements and push notifications on platforms that show the highest average playtime, especially during high engagement hours.
+- Encourage platform features that replicate "start reason: track completion", such as seamless transitions or story-like music playback.
+
+
 ## 📄 License
 
 This project is open-source and available for educational and personal use.
